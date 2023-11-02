@@ -1,2 +1,1 @@
-# movies_app
-Movies app from API
+#Movies application from API
